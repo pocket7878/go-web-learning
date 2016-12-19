@@ -1,2 +1,8 @@
-package: github.com/pocket7878/go-web-learning
-import: []
+package: .
+import:
+- package: github.com/pressly/chi
+  version: v2.0.0rc1
+- package: github.com/dgrijalva/jwt-go
+  version: ^3.0.0
+- package: github.com/jinzhu/gorm
+  version: ^1.0.0

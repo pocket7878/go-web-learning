@@ -1,0 +1,10 @@
+hash: d76652ca6e345aae743c2f63eb8edcc74920dfc304831e51a8030cae5a24ae94
+updated: 2016-12-19T20:06:57.039755454+09:00
+imports:
+- name: github.com/dgrijalva/jwt-go
+  version: d2709f9f1f31ebcda9651b03077758c1f3a0018c
+- name: github.com/jinzhu/gorm
+  version: 5174cc5c242a728b435ea2be8a2f7f998e15429b
+- name: github.com/pressly/chi
+  version: fc6251083a856d5093f4b96d71252c5e56d9c1b5
+testImports: []
